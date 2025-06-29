@@ -1,0 +1,86 @@
+==== Parâmetros de entrada ====
+Arquivo de endereços: oficial.cache
+Arquivo de saída: saida.txt
+Política de escrita: 0 (WRITE_THROUGH)
+Tamanho da linha: 8 bytes
+Número de linhas: 512
+Associatividade por conjunto: 2
+Tempo de acesso (hit time): 5 ns
+Política de substituição: LRU
+Memória principal (R/W): 70/70 ns
+
+==== Estatísticas de acesso ====
+Total de endereços (leituras=45056, escritas=6144, total=51200)
+Acessos à memória principal (leituras=11336, escritas=6144)
+
+Taxa de acerto leitura: 0,7712 (34748/45056)
+Taxa de acerto escrita: 0,8327 (5116/6144)
+Taxa de acerto global: 0,7786 (39864/51200)
+
+Tempo médio de acesso (ns): 28,8984
+
+
+==== Parâmetros de entrada ====
+Arquivo de endereços: oficial.cache
+Arquivo de saída: saida.txt
+Política de escrita: 0 (WRITE_THROUGH)
+Tamanho da linha: 16 bytes
+Número de linhas: 256
+Associatividade por conjunto: 2
+Tempo de acesso (hit time): 5 ns
+Política de substituição: LRU
+Memória principal (R/W): 70/70 ns
+
+==== Estatísticas de acesso ====
+Total de endereços (leituras=45056, escritas=6144, total=51200)
+Acessos à memória principal (leituras=14401, escritas=6144)
+
+Taxa de acerto leitura: 0,7032 (31682/45056)
+Taxa de acerto escrita: 0,8328 (5117/6144)
+Taxa de acerto global: 0,7187 (36799/51200)
+
+Tempo médio de acesso (ns): 33,0889
+
+
+==== Parâmetros de entrada ====
+Arquivo de endereços: oficial.cache
+Arquivo de saída: saida.txt
+Política de escrita: 0 (WRITE_THROUGH)
+Tamanho da linha: 32 bytes
+Número de linhas: 128
+Associatividade por conjunto: 2
+Tempo de acesso (hit time): 5 ns
+Política de substituição: LRU
+Memória principal (R/W): 70/70 ns
+
+==== Estatísticas de acesso ====
+Total de endereços (leituras=45056, escritas=6144, total=51200)
+Acessos à memória principal (leituras=20021, escritas=6144)
+
+Taxa de acerto leitura: 0,6011 (27083/45056)
+Taxa de acerto escrita: 0,6667 (4096/6144)
+Taxa de acerto global: 0,6090 (31179/51200)
+
+Tempo médio de acesso (ns): 40,7725
+
+
+==== Parâmetros de entrada ====
+Arquivo de endereços: oficial.cache
+Arquivo de saída: saida.txt
+Política de escrita: 0 (WRITE_THROUGH)
+Tamanho da linha: 64 bytes
+Número de linhas: 64
+Associatividade por conjunto: 2
+Tempo de acesso (hit time): 5 ns
+Política de substituição: LRU
+Memória principal (R/W): 70/70 ns
+
+==== Estatísticas de acesso ====
+Total de endereços (leituras=45056, escritas=6144, total=51200)
+Acessos à memória principal (leituras=13857, escritas=6144)
+
+Taxa de acerto leitura: 0,7379 (33247/45056)
+Taxa de acerto escrita: 0,6667 (4096/6144)
+Taxa de acerto global: 0,7294 (37343/51200)
+
+Tempo médio de acesso (ns): 32,3451
